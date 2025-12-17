@@ -57,5 +57,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Benjilo12/React-Native-Expense-App.git)
+![App Screenshot](https://github.com/Benjilo12/React-Native-Expense-App/blob/7309727482afd4cf04f17aaf192ada37ded4aa56/Screenshot_1764405166.png)
 
